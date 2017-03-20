@@ -16,6 +16,7 @@ yum -y install \
 	socat \
 	strace \
 	jq \
+	less \
 	wget \
 	iproute \
 	util-linux \
